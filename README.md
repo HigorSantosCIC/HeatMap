@@ -1,7 +1,7 @@
 # Heat Map - Passo a Passo
 
 
-- Com o elasticmaps é possivel utilizar recursos de georeferencia de maneira simples para visualisação de dados.
+- Com o elasticmaps é possivel utilizar recursos de georeferencia de maneira simples para visualização de dados.
 
 - No plugin X-Pack, existem recursos destinados a bigdata, dentre eles o Grid aggregation
 
